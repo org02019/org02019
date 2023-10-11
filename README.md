@@ -1,6 +1,6 @@
 
 <div align="center">
-  ### Hi there 👋
+ <p>### Hi there 👋 </p> 
   
   <a href="www.linkedin.com/in/oswaldo-ramos-g">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
